@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think that you should write programs that do one thing and do it well.**
 
-<h3 align="left">Connect with me:olegi.talantov@gmail.com or @winterka (telegram)</h3>
+<h3 align="left">Connect with me: olegi.talantov@gmail.com (email) or @winterka (telegram)</h3>
 <p align="left">
 </p>
 
